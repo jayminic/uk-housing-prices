@@ -1,4 +1,4 @@
-# UK Housing Price Trends (2020–2024)
+# UK Housing Price Trends (2020–2025)
 
 ## 📌 Project Overview
 This project analyses the UK Land Registry **Price Paid Data** to explore housing price trends over the last 5 years (2020–2025).  
